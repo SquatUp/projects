@@ -5,7 +5,7 @@
 
 ---
 
-**[Wizard Amigos] (https://github.com/wizardamigosinstitute)**
+## Wizard Amigos
 E-learnign platform to teach the digital literacy of the future. It was founded in Berlin as a programming school for kids that offers workshops to connect kids from different backgrounds through programming wizardry. A year later it transformed into an international e-learning platfrom for teaching JavaScript (from how to instal a browser to how to build a mobile app).
 
 [Webpage] (https://wizardamigos.com)
@@ -18,7 +18,7 @@ E-learnign platform to teach the digital literacy of the future. It was founded 
 
 ---
 
-**[eSova] (http://app.esova.rs/)**
+## eSova
 We also work on a platform that we built for the city of Sabac in Serbia in order to reduce high youth unemployment. eSova it's an e-learning platform with educational videos for teaching programming. 
 
 [Webpage] (https://app.esova.rs)
@@ -29,7 +29,7 @@ We also work on a platform that we built for the city of Sabac in Serbia in orde
 
 ---
 
-**[RefugeesWork] (http://www.refugeeswork.com/)**
+## RefugeesWork
 Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
 
 [Webpage] (https://refugeeswork.com)
@@ -44,7 +44,7 @@ Is a web platform that help newcomers connect with local organisations.  Locals 
 
 ---
 
-**[Coding Amigos] (http://www.codingamigos.com/)**
+## Coding Amigos
 Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
 
 [Webpage] (https://codingamigos.com)
@@ -57,17 +57,17 @@ Is a web platform that help newcomers connect with local organisations.  Locals 
 
 ---
 
-**[DigitalSolopreneur] (http://digitalsolopreneur.eu/)**
+## DigitalSolopreneur
 Currently in alpha version. It is researching how to open and maintain a company.
 
 ---
 
-**[Micro-holding co-ownership] (https://github.com/Platform-Cooperativism/platform-cooperativism.github.io)**
+## Micro-holding co-ownership
 Exploring processes and legal ways for cooperation and decision making betwen many micro-holdings.
 
 ---
 
-**[Nomads' Workation Spaces] (https://github.com/workation)**
+## Nomads' Workation Spaces
 The main idea is to create a network of local Creative Development Organizations spread around the world, whose aim is to support creative people development and networking capabilities.
 
 [Facebook] (https://www.facebook.com/groups/1651166588488043/)
@@ -78,7 +78,7 @@ The main idea is to create a network of local Creative Development Organizations
 
 ---
 
-**[Codename:Act] (https://github.com/CodenameAct)**
+## Codename:Act
 A multilingual Smart Interactive Voice Response with toll free numbers
 
 [Github] (https://github.com/CodenameAct)
@@ -86,9 +86,3 @@ A multilingual Smart Interactive Voice Response with toll free numbers
 [Chat] (https://gitter.im/CodenameAct/Lobby)
 
 ---
-
-**[Virtual Amigos] (https://github.com/virtualamigos)**
-VR / AR makers who would like to co-create projects with like-minded people in the industry. 
-
----
-
