@@ -14,6 +14,8 @@ E-learnign platform to teach the digital literacy of the future. It was founded 
 
 [Chat] (https://gitter.im/codingamigos/learners)
 
+[Waffle board] (https://waffle.io/wizardamigosinstitute/organization)
+
 [Facebook] (https://www.facebook.com/wizardamigos/)
 
 ---
