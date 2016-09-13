@@ -45,7 +45,7 @@ Is a web platform that help newcomers connect with local organisations.  Locals 
 ---
 
 ## Coding Amigos
-Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
+Digital collective of freelance developers with activist streak.
 
 [Webpage] (https://codingamigos.com)
 
