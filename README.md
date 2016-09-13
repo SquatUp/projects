@@ -7,29 +7,53 @@
 
 **[Wizard Amigos] (https://github.com/wizardamigosinstitute)**
 E-learnign platform to teach the digital literacy of the future. It was founded in Berlin as a programming school for kids that offers workshops to connect kids from different backgrounds through programming wizardry. A year later it transformed into an international e-learning platfrom for teaching JavaScript (from how to instal a browser to how to build a mobile app).
+
 [Webpage] (https://wizardamigos.com)
+
 [Github] (https://github.com/wizardamigosinstitute)
+
 [Chat] (https://gitter.im/codingamigos/learners)
+
+[Facebook] (https://www.facebook.com/wizardamigos/)
+
 ---
 
 **[eSova] (http://app.esova.rs/)**
 We also work on a platform that we built for the city of Sabac in Serbia in order to reduce high youth unemployment. eSova it's an e-learning platform with educational videos for teaching programming. 
 
+[Webpage] (https://app.esova.rs)
+
+[Github] (https://github.com/esova)
+
+[Chat] (https://gitter.im/ESova/program)
+
 ---
 
 **[RefugeesWork] (http://www.refugeeswork.com/)**
 Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
+
 [Webpage] (https://refugeeswork.com)
+
 [Github] (https://github.com/refugeeswork/organization)
+
+[Waffle board] (https://waffle.io/RefugeesWork/organization)
+
 [Chat] (https://gitter.im/RefugeesWork/Chat)
+
+[Facebook] (https://www.facebook.com/groups/RefugeesWork/)
 
 ---
 
 **[Coding Amigos] (http://www.codingamigos.com/)**
 Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
+
 [Webpage] (https://codingamigos.com)
+
 [Meetup] (https://meetup.com/codingamigos)
+
 [Chat] (https://gitter.im/codingamigos/chat)
+
+[Facebook] (https://www.facebook.com/groups/220387124998784/)
 
 ---
 
@@ -43,12 +67,28 @@ Exploring processes and legal ways for cooperation and decision making betwen ma
 
 ---
 
+**[Nomads' Workation Spaces] (https://github.com/workation)**
+The main idea is to create a network of local Creative Development Organizations spread around the world, whose aim is to support creative people development and networking capabilities.
+
+[Facebook] (https://www.facebook.com/groups/1651166588488043/)
+
+[Github] (https://github.com/workation)
+
+[Chat] (https://gitter.im/workation.github.io)
+
+---
+
+**[Codename:Act] (https://github.com/CodenameAct)**
+A multilingual Smart Interactive Voice Response with toll free numbers
+
+[Github] (https://github.com/CodenameAct)
+
+[Chat] (https://gitter.im/CodenameAct/Lobby)
+
+---
+
 **[Virtual Amigos] (https://github.com/virtualamigos)**
 VR / AR makers who would like to co-create projects with like-minded people in the industry. 
 
 ---
 
-**[Nomads' Workation Spaces] (https://github.com/workation)**
-The main idea is to create a network of local Creative Development Organizations spread around the world, whose aim is to support creative people development and networking capabilities.
-
----
