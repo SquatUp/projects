@@ -8,7 +8,7 @@ A special thanks also to our [collaborators] (https://github.com/SquatUp/project
 ---
 
 ## Wizard Amigos
-E-learnign platform to teach the digital literacy of the future. It was founded in Berlin as a programming school for kids that offers workshops to connect kids from different backgrounds through programming wizardry. A year later it transformed into an international e-learning platfrom for teaching JavaScript (from how to instal a browser to how to build a mobile app).
+E-learning platform to teach the digital literacy of the future. It was founded in Berlin as a programming school for kids that offers workshops to connect kids from different backgrounds through programming wizardry. A year later it transformed into an international e-learning platfrom for teaching JavaScript (from how to instal a browser to how to build a mobile app).
 
 [Webpage] (https://wizardamigos.com)
 
