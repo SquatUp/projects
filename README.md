@@ -3,7 +3,7 @@
 
 **If you accept our shared [Code of conduct](http://berlincodeofconduct.org/) and wish to include your project to SquatUp network of IT projects with activist streak, add the project to the list and create a pull request. We would also be very happy if you would create a SquatUp repository in your project/organisation or find some other way to link back to this list.**
 
-A special thanks also to our [collaborators] (https://github.com/SquatUp/projects/blob/master/collaborators.md)
+A special thanks also to our [collaborators] (https://github.com/SquatUp/projects/blob/master/collaborators.md)👻 👽 🤖 😺
 
 ---
 
