@@ -1,18 +1,18 @@
 ### Big thank you to all our wonderfull collaborators 
 Co.up coworking, 
-Alexander Praetorius, 
-Nina Breznik,
-Alice Kohn, 
-Thanh Nguyen, 
+[Alexander Praetorius] (https://twitter.com/serapath), 
+[Nina Breznik] (http://twitter.com/ninabreznik),
+[Alice Kohn] (https://twitter.com/AliceKohn), 
+[Thanh Nguyen] (http://iamthanh.com/), 
 Luka Tišler, 
-Ali Ghali, 
-Pepe Becker, 
-Jannis Redmann, 
-Henning Nugel, 
+[Ali Ghali] (http://www.alighali.com/), 
+[Pepe Becker] (http://pepebecker.com/), 
+[Jannis Redmann] (http://jannisr.de/), 
+[Henning Nugel] (http://www.nugelbrosmusic.com/), 
 Alexej Grohe, 
 Inga Schroeder, 
 David Garcia Mora, 
-Veronika Ban,
+[Veronika Ban] (http://veronikaban.com/),
 Daniel Senff and others 
 
 ### All our projects are made with zero budget so with pure love and dedication for our mission: 
