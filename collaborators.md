@@ -1,10 +1,9 @@
 ### Big thank you to all our wonderfull collaborators 
 Co.up coworking, 
 Alexander Praetorius, 
+Nina Breznik,
 Alice Kohn, 
-Jana Burger, 
 Thanh Nguyen, 
-Veronika Ban, 
 Luka Tišler, 
 Ali Ghali, 
 Pepe Becker, 
@@ -12,8 +11,8 @@ Jannis Redmann,
 Henning Nugel, 
 Alexej Grohe, 
 Inga Schroeder, 
-Jîwan Omar Abbas, 
 David Garcia Mora, 
+Veronika Ban,
 Daniel Senff and others 
 
 ### All our projects are made with zero budget so with pure love and dedication for our mission: 
