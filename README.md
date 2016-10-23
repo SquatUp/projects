@@ -71,7 +71,7 @@ Exploring processes and legal ways for cooperation and decision making betwen ma
 
 ---
 
-## Nomads' Workation Spaces
+## Workation 
 The main idea is to create a network of local Creative Development Organizations spread around the world, whose aim is to support creative people development and networking capabilities.
 
 [Facebook] (https://www.facebook.com/groups/1651166588488043/)
@@ -79,6 +79,11 @@ The main idea is to create a network of local Creative Development Organizations
 [Github] (https://github.com/workation)
 
 [Chat] (https://gitter.im/workation.github.io)
+
+---
+
+## Prison break
+How to code on the go? We want to finally get out of the prison (sitting/standing behind the desk) and start creating while being able to move more. 
 
 ---
 # Connected projects
