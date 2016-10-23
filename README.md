@@ -81,6 +81,7 @@ The main idea is to create a network of local Creative Development Organizations
 [Chat] (https://gitter.im/workation.github.io)
 
 ---
+# Connected projects
 
 ## Codename:Act
 A multilingual Smart Interactive Voice Response with toll free numbers
