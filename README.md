@@ -64,10 +64,14 @@ Digital collective of freelance developers with activist streak.
 ## DigitalSolopreneur
 Currently in alpha version. It is researching how to open and maintain a company.
 
+[Github] (https://github.com/digitalsolopreneur/roadmap/issues)
+
 ---
 
 ## Micro-holding co-ownership
 Exploring processes and legal ways for cooperation and decision making betwen many micro-holdings.
+
+[Github] (https://github.com/Micro-Holding-Co-Ownership/micro-holding-co-ownership.github.io/issues)
 
 ---
 
