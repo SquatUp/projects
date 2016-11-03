@@ -14,7 +14,7 @@ E-learning platform to teach the digital literacy of the future. It was founded 
 
 [Webpage] (https://wizardamigos.com)
 
-[Github] (https://github.com/wizardamigosinstitute)
+[Github] (https://github.com/wizardamigosinstitute/wizardamigosinstitute.github.io)
 
 [Chat] (https://gitter.im/codingamigos/learners)
 
@@ -58,7 +58,7 @@ Is a web platform that help newcomers connect with local organisations.  Locals 
 
 [Webpage] (https://refugeeswork.com)
 
-[Github] (https://github.com/refugeeswork/organization)
+[Github] (https://github.com/RefugeesWork/organization/blob/master/README.md)
 
 [Waffle board] (https://waffle.io/RefugeesWork/organization)
 
