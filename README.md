@@ -7,6 +7,8 @@ A special thanks also to our [collaborators] (https://github.com/SquatUp/project
 
 ---
 
+# LEARN PROGRAMMING
+
 ## Wizard Amigos
 E-learning platform to teach the digital literacy of the future. It was founded in Berlin as a programming school for kids that offers workshops to connect kids from different backgrounds through programming wizardry. A year later it transformed into an international e-learning platfrom for teaching JavaScript (from how to instal a browser to how to build a mobile app).
 
@@ -33,6 +35,24 @@ We also work on a platform that we built for the city of Sabac in Serbia in orde
 
 ---
 
+# MEET
+
+
+## Coding Amigos
+Digital collective of freelance developers with activist streak.
+
+[Webpage] (https://codingamigos.com)
+
+[Meetup] (https://meetup.com/codingamigos)
+
+[Chat] (https://gitter.im/codingamigos/chat)
+
+[Facebook] (https://www.facebook.com/groups/220387124998784/)
+
+---
+
+# EARN
+
 ## RefugeesWork
 Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
 
@@ -45,19 +65,6 @@ Is a web platform that help newcomers connect with local organisations.  Locals 
 [Chat] (https://gitter.im/RefugeesWork/Chat)
 
 [Facebook] (https://www.facebook.com/groups/RefugeesWork/)
-
----
-
-## Coding Amigos
-Digital collective of freelance developers with activist streak.
-
-[Webpage] (https://codingamigos.com)
-
-[Meetup] (https://meetup.com/codingamigos)
-
-[Chat] (https://gitter.im/codingamigos/chat)
-
-[Facebook] (https://www.facebook.com/groups/220387124998784/)
 
 ---
 
@@ -75,6 +82,8 @@ Exploring processes and legal ways for cooperation and decision making betwen ma
 
 ---
 
+# LIVE
+
 ## Workation 
 The main idea is to create a network of local Creative Development Organizations spread around the world, whose aim is to support creative people development and networking capabilities.
 
@@ -88,15 +97,5 @@ The main idea is to create a network of local Creative Development Organizations
 
 ## Prison break
 How to code on the go? We want to finally get out of the prison (sitting/standing behind the desk) and start creating while being able to move more. 
-
----
-# Connected projects
-
-## Codename:Act
-A multilingual Smart Interactive Voice Response with toll free numbers
-
-[Github] (https://github.com/CodenameAct)
-
-[Chat] (https://gitter.im/CodenameAct/Lobby)
 
 ---
