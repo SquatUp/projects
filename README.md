@@ -11,7 +11,7 @@ Our philosophy is that everyone should learn to code (literacy of the 21st centu
 
 ---
 
-# LEARN PROGRAMMING
+# :LEARN:
 
 ## Wizard Amigos
 E-learning platform to teach the digital literacy of the future. It was founded in Berlin as a programming school for kids that offers workshops to connect kids from different backgrounds through programming wizardry. A year later it transformed into an international e-learning platfrom for teaching JavaScript (from how to instal a browser to how to build a mobile app).
@@ -39,7 +39,7 @@ We also work on a platform that we built for the city of Sabac in Serbia in orde
 
 ---
 
-# MEET
+# :MEET:
 
 
 ## Coding Amigos
@@ -55,7 +55,7 @@ Digital collective of freelance developers with activist streak.
 
 ---
 
-# EARN
+# :EARN:
 
 ## RefugeesWork
 Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
@@ -86,7 +86,7 @@ Exploring processes and legal ways for cooperation and decision making betwen ma
 
 ---
 
-# LIVE
+# :LIVE:
 
 ## Workation 
 The main idea is to create a network of local Creative Development Organizations spread around the world, whose aim is to support creative people development and networking capabilities.
