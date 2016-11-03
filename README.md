@@ -1,9 +1,13 @@
 # SquatUp projects network
 
+Alternative approach to our current lifestyles. SquatUp ecosystem offers a fresh perspective on how we are suppose to live and create in this world.
+Our philosophy is that everyone should learn to code (literacy of the 21st century) and create solutions for more transparent and open world. Therefore the only way is self employment and collaboration of us, co-creators of the world we want to live in.
 
 **If you accept our shared [Code of conduct](http://berlincodeofconduct.org/) and wish to include your project to SquatUp network of IT projects with activist streak, add the project to the list and create a pull request. We would also be very happy if you would create a SquatUp repository in your project/organisation or find some other way to link back to this list.**
 
-A special thanks also to our [collaborators] (https://github.com/SquatUp/projects/blob/master/collaborators.md) 👻 👽 🤖 😺
+👻 👽 🤖 😺
+@ninabreznik
+@serapath
 
 ---
 
