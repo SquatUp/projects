@@ -1,4 +1,6 @@
-# SquatUp projects network
+# SquatUp
+
+### Join the future of living
 
 Alternative approach to our current lifestyles. SquatUp ecosystem offers a fresh perspective on how we are suppose to live and create in this world.
 Our philosophy is that everyone should learn to code (literacy of the 21st century) and create solutions for more transparent and open world. Therefore the only way is self employment and collaboration of us, co-creators of the world we want to live in.
