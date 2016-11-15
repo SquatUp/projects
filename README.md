@@ -88,7 +88,7 @@ Exploring processes and legal ways for cooperation and decision making betwen ma
 
 # :LIVE:
 
-## Workation 
+## Co-living/Workation 
 The main idea is to create a network of local Creative Development Organizations spread around the world, whose aim is to support creative people development and networking capabilities.
 
 [Facebook] (https://www.facebook.com/groups/1651166588488043/)
