@@ -18,26 +18,15 @@ Our philosophy is that everyone should learn to code (literacy of the 21st centu
 ## Wizard Amigos
 E-learning platform to teach the digital literacy of the future. It was founded in Berlin as a programming school for kids that offers workshops to connect kids from different backgrounds through programming wizardry. A year later it transformed into an international e-learning platfrom for teaching JavaScript (from how to instal a browser to how to build a mobile app).
 
-[Webpage] (https://wizardamigos.com)
+[App] (https://app.wizardamigos.com)
 
 [Github] (https://github.com/wizardamigosinstitute/wizardamigosinstitute.github.io)
 
-[Chat] (https://gitter.im/codingamigos/learners)
+[Chat] (https://gitter.im/wizardamigos/program)
 
 [Waffle board] (https://waffle.io/wizardamigosinstitute/organization)
 
-[Facebook] (https://www.facebook.com/wizardamigos/)
-
----
-
-## eSova
-We also work on a platform that we built for the city of Sabac in Serbia in order to reduce high youth unemployment. eSova it's an e-learning platform with educational videos for teaching programming. 
-
-[Webpage] (https://app.esova.rs)
-
-[Github] (https://github.com/esova)
-
-[Chat] (https://gitter.im/ESova/program)
+[Facebook] (https://www.facebook.com/groups/369246343421803/)
 
 ---
 
