@@ -94,3 +94,5 @@ The main idea is to create a network of local Creative Development Organizations
 How to code on the go? We want to finally get out of the prison (sitting/standing behind the desk) and start creating while being able to move more. 
 
 ---
+
+More details about the full concept, you can find [here](https://github.com/wizardamigosinstitute/organization/blob/master/README.md)
