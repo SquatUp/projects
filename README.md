@@ -73,8 +73,11 @@ Currently in alpha version. It is researching how to open and maintain a company
 ## Micro-holding co-ownership
 Exploring processes and legal ways for cooperation and decision making betwen many micro-holdings.
 
-[Github] (https://github.com/Micro-Holding-Co-Ownership/micro-holding-co-ownership.github.io/issues)
+Draft of the model:
+[Github] (https://github.com/Micro-Holding-Co-Ownership/micro-holding-co-ownership.github.io/)
 
+Brainstorm:
+[Github] (https://github.com/serapath-contribution/RepPointsServer/blob/fa47130d2dd9471cacc49f0a8aa0958a0b527b27/SPECIFICATION/README.md)
 ---
 
 # :LIVE:
