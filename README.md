@@ -8,7 +8,11 @@ Our philosophy is that everyone should learn to code (literacy of the 21st centu
 **If you accept our shared [Code of conduct](http://berlincodeofconduct.org/) and wish to include your project to SquatUp network of IT projects with activist streak, add the project to the list and create a pull request. We would also be very happy if you would create a SquatUp repository in your project/organisation or find some other way to link back to this list.**
 
 👻 👽 🤖 😺
+
+Get in touch/follow:
+
 @ninabreznik
+
 @serapath
 
 ---
@@ -64,20 +68,21 @@ Is a web platform that help newcomers connect with local organisations.  Locals 
 ---
 
 ## DigitalSolopreneur
-Currently in alpha version. It is researching how to open and maintain a company.
+How to open and maintain a company (UK LTD, Gov APIs, accounting, annual reports, address, post, employment in your own LTD, tax residency and more). Currently in alpha version. 
 
 [Github] (https://github.com/digitalsolopreneur/roadmap/issues)
 
 ---
 
 ## Micro-holding co-ownership
-Exploring processes and legal ways for cooperation and decision making betwen many micro-holdings.
+Exploring processes and legal ways for cooperation and decision making betwen many micro-holdings (keywords: automated co-owning, cooperatives of solopreneurs, pop-up companies). Currently in alpha version. 
 
 Draft of the model:
 [Github] (https://github.com/Micro-Holding-Co-Ownership/micro-holding-co-ownership.github.io/)
 
-Brainstorm:
-[Github] (https://github.com/serapath-contribution/RepPointsServer/blob/fa47130d2dd9471cacc49f0a8aa0958a0b527b27/SPECIFICATION/README.md)
+Brainstorm:[Github] 
+(https://github.com/serapath-contribution/RepPointsServer/blob/fa47130d2dd9471cacc49f0a8aa0958a0b527b27/SPECIFICATION/README.md)
+
 ---
 
 # :LIVE:
