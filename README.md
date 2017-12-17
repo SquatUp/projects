@@ -24,7 +24,7 @@ E-learning platform to teach the digital literacy of the future. It was founded 
 
 [App] (https://app.wizardamigos.com)
 
-[Github] (https://github.com/wizardamigos/wizardamigos.github.io)
+[Github] (https://github.com/wizardamigos)
 
 [Chat] (https://gitter.im/wizardamigosinstitute/program)
 
