@@ -55,7 +55,7 @@ Digital collective of freelance developers with activist streak.
 # :MAKE:
 
 ## DigitalSolopreneur
-How to open and maintain a company (UK LTD, Gov APIs, accounting, annual reports, address, post, employment in your own LTD, tax residency and more). Currently in alpha version. 
+How to open and maintain a one-person-company (UK LTD, Gov APIs, accounting, annual reports, address, post, employment in your own LTD, tax residency and more). Currently in alpha version. 
 
 [Github] (https://github.com/digitalsolopreneur/roadmap/issues)
 
