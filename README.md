@@ -22,7 +22,9 @@ Get in touch/follow:
 ## Wizard Amigos
 E-learning platform to teach the digital literacy of the future. It was founded in Berlin as a programming school for kids that offers workshops to connect kids from different backgrounds through programming wizardry. A year later it transformed into an international e-learning platfrom for teaching JavaScript (from how to instal a browser to how to build a mobile app).
 
-[App] (https://app.wizardamigos.com)
+[App for beginners (old)] (https://app.wizardamigos.com)
+
+[Workshop app](http://wizardamigos.com/workshop_app/)
 
 [Github] (https://github.com/wizardamigos)
 
@@ -52,21 +54,6 @@ Digital collective of freelance developers with activist streak.
 
 # :MAKE:
 
-## RefugeesWork
-Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
-
-[Webpage] (https://refugeeswork.com)
-
-[Github] (https://github.com/RefugeesWork/organization/blob/master/README.md)
-
-[Waffle board] (https://waffle.io/RefugeesWork/organization)
-
-[Chat] (https://gitter.im/RefugeesWork/Chat)
-
-[Facebook] (https://www.facebook.com/groups/RefugeesWork/)
-
----
-
 ## DigitalSolopreneur
 How to open and maintain a company (UK LTD, Gov APIs, accounting, annual reports, address, post, employment in your own LTD, tax residency and more). Currently in alpha version. 
 
@@ -82,6 +69,21 @@ Draft of the model:
 
 Brainstorm:[Github] 
 (https://github.com/serapath-contribution/RepPointsServer/blob/fa47130d2dd9471cacc49f0a8aa0958a0b527b27/SPECIFICATION/README.md)
+
+---
+
+## RefugeesWork
+Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
+
+[Webpage] (https://refugeeswork.com)
+
+[Github] (https://github.com/RefugeesWork/organization/blob/master/README.md)
+
+[Waffle board] (https://waffle.io/RefugeesWork/organization)
+
+[Chat] (https://gitter.im/RefugeesWork/Chat)
+
+[Facebook] (https://www.facebook.com/groups/RefugeesWork/)
 
 ---
 
